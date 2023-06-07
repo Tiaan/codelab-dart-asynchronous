@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "whois",
+      "rootUri": "file:///Users/tiaanvandeventer/.pub-cache/hosted/pub.dev/whois-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "newtify",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-05-30T14:38:59.385078Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.0"
+}

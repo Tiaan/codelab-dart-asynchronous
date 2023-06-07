@@ -1,0 +1,14 @@
+name: newtify
+description: >-
+  Have you been turned into a newt?  Would you like to be?
+  This package can help. It has all of the
+  newt-transmogrification functionality you have been looking
+  for.
+version: 0.0.0
+publish_to: none
+homepage:
+documentation:
+environment:
+  sdk: ^3.0.0
+dependencies:
+  whois: ^1.0.0
